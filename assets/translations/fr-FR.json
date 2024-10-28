@@ -1,0 +1,56 @@
+{
+    "navbar": {
+        "dashboard": "Accueil",
+        "cars": "Voitures",
+        "statistique": "Analyse",
+        "settings": "Paramètres"
+    },
+    "mycars": {
+        "mycars": "Mes Voitures",
+        "commands": "Commandes",
+        "stopengine": "Arrêter le Moteur",
+        "startengine": "Démarrer le Moteur",
+        "getposition": "Obtenir la Position SMS",
+        "reboot": "Redémarrer le GPS"
+    },    
+    "stats": {
+        "stats": "Rapport & Analyse",
+        "tripchart": "Graphique des trajets",
+        "averageusedfuel": "Consommation moyenne de carburant",
+        "totalodometer": "Odomètre total"
+    },
+    "settings": {
+        "settings": "Paramètres",
+        "account": "Compte",
+        "profile": "Profil",
+        "username": "Pseudo",
+        "firstname": "Prénom",
+        "lastname": "Nom",
+        "phone": "Telephone",
+        "password": "Changer le Mot de Passe",
+        "newpassword": "Nouveau mot de pass",
+        "confirmpassword": "Confirmation du mot de pass",
+        "passwordnotmatch": "Les mots de passe ne correspondent pas",
+        "notifications": "Notifications",
+        "in_app_notifications": "Notifications de l'App",
+        "other_settings": "Paramètres Supplémentaires",
+        "language": "Langue",
+        "help_support": "Aide & Support",
+        "save": "Enregistrer"
+    },
+    "carbottomsheet": {
+        "platenumber": "Numéro de Plaque",
+        "ecoscore": "Score Écologique",
+        "trip": "Voyage",
+        "fuelused": "Carburant Utilisé"
+    },
+    "history": {
+        "trip": "Historique des Voyages",
+        "dateselected": "Date Sélectionnée",
+        "trip": "Voyage"
+    },
+    "livetracking": {
+        "livetracking": "Suivi en Direct",
+        "speed": "Vitesse"
+    }
+}

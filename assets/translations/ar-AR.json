@@ -1,0 +1,56 @@
+{
+    "navbar": {
+        "dashboard": "الرئيسية",
+        "cars": "السيارات",
+        "statistique": "تحليل",
+        "settings": "الإعدادات"
+    },
+    "mycars": {
+        "mycars": "سياراتي",
+        "commands": "الأوامر",
+        "stopengine": "إيقاف المحرك",
+        "startengine": "تشغيل المحرك",
+        "getposition": "الحصول على الموقع عبر الرسائل القصيرة",
+        "reboot": "إعادة تشغيل GPS"
+    },
+    "stats": {
+        "stats": "التقرير والتحليل",
+        "tripchart": "مخطط الرحلة",
+        "averageusedfuel": "متوسط الوقود المستخدم",
+        "totalodometer": "مجموع عداد المسافات"
+    },
+    "settings": {
+        "settings": "الإعدادات",
+        "account": "الحساب",
+        "profile": "الملف الشخصي",
+        "username": "اسم المستعار",
+        "firstname": "اسم",
+        "lastname": "النسب",
+        "phone": "رقم الهاتف",
+        "password": "تغيير كلمة المرور",
+        "newpassword": "كلمة المرور",
+        "confirmpassword": "تأكيد كلمة المرور",
+        "passwordnotmatch": "كلمة المرور غير مطابقة",
+        "notifications": "الإشعارات",
+        "in_app_notifications": "إشعارات التطبيق",
+        "other_settings": "إعدادات إضافية",
+        "language": "اللغة",
+        "help_support": "المساعدة والدعم",
+        "save": "حفض"
+    },
+    "carbottomsheet": {
+        "platenumber": "رقم اللوحة",
+        "ecoscore": "درجة الاقتصادية",
+        "trip": "رحلة",
+        "fuelused": "الوقود المستخدم"
+    },
+    "history": {
+        "trip": "تاريخ الرحلات",
+        "dateselected": "التاريخ المحدد",
+        "trip": "رحلة"
+    },
+    "livetracking": {
+        "livetracking": "التتبع المباشر",
+        "speed": "السرعة"
+    }
+}

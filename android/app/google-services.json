@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292919930019",
+    "project_id": "blackgps-f94d0",
+    "storage_bucket": "blackgps-f94d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292919930019:android:59b7306b4ec35fb1922316",
+        "android_client_info": {
+          "package_name": "com.gyges.blackgps.blackgps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuQM3yBJXJzJEtpjm2jSx27wCX6fRAD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

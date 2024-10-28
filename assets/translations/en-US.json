@@ -1,0 +1,56 @@
+{
+    "navbar": {
+        "dashboard": "Home",
+        "cars": "Cars",
+        "statistique": "Report",
+        "settings": "Settings"
+    },
+    "mycars": {
+        "mycars": "My Cars",
+        "commands": "Commands",
+        "stopengine": "Stop Engine",
+        "startengine": "Start Engine",
+        "getposition": "Get Position SMS",
+        "reboot": "Reboot GPS"
+    },
+    "settings": {
+        "settings": "Settings",
+        "account": "Account",
+        "profile": "Profile",
+        "username": "Username",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "phone": "Phone",
+        "password": "Change Password",
+        "newpassword": "New Password",
+        "confirmpassword": "Confirm Password",
+        "passwordnotmatch": "Passwords do not match",
+        "notifications": "Notifications",
+        "in_app_notifications": "App Notifications",
+        "other_settings": "Additional Settings",
+        "language": "Language",
+        "help_support": "Help & Support",
+        "save": "Save"
+    },
+    "stats": {
+        "stats": "Report & Analyse",
+        "tripchart": "Trip Chart",
+        "averageusedfuel": "Average used fuel",
+        "totalodometer": "Total Odometer"
+    },
+    "carbottomsheet": {
+        "platenumber": "Plate Number",
+        "ecoscore": "Eco Score",
+        "trip": "Trip",
+        "fuelused": "Fuel Used"
+    },
+    "history": {
+        "trip": "Trip History",
+        "dateselected": "Date Selected",
+        "trip": "Trip"
+    },
+    "livetracking": {
+        "livetracking": "Live Tracking",
+        "speed": "Speed"
+    }
+  }
